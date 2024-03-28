@@ -1,0 +1,86 @@
+
+body {
+	background-color:lightblue ;
+  font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+  margin: 0;
+  padding: 0;
+  background-image: url(".JPEG");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+}
+
+h1, h2, h3 {
+	font-family:Helvetica: 
+  margin: 1rem 0;
+}
+h4{
+	text-align: center;
+	text-seiz: bold;
+	font-family: sans-serif
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Header styles*/
+header {
+	font-family: Helvetica:
+   background-color: #f5f5f5;
+  padding: 1rem;
+}
+
+header h1 {
+  margin: 0;
+}
+
+/* Navigation styles */
+nav {
+  background-color: #e9ecef;
+  padding: 1rem;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+/* Main content styles */
+main {
+  padding: 1rem;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+/* Hero section styles */
+#hero {
+  text-align: center;
+}
+
+.cta-button {
+  background-color: #007bff;
+}
+footer {
+  background-color: red;
+  text-align: center;
+  padding: 1rem;
+}
